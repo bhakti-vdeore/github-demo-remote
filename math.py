@@ -6,7 +6,7 @@ def sub(x,y):
   return x-y #from remote
 #mul
 def mul(x,y):
-  pass
+  return x*y #from local
 #div
 def div(x,y):
   pass
