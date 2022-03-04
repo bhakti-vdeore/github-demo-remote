@@ -3,7 +3,7 @@ def add(x,y):
   return x+y
 #sub
 def sub(x,y):
-  pass
+  return x-y #on bug 456
 #mul
 def mul(x,y):
   pass
